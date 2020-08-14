@@ -1,11 +1,10 @@
 # Dice Maiden
 <p align="center">
- <a href="https://discordbots.org/bot/377701707943116800" >
-  <img src="https://discordbots.org/api/widget/377701707943116800.svg" alt="Dice Maiden" />
-</a>
 <br>Dice Bot for Discord
 <br>Dice Maiden is a simple to use dice rolling bot perfect for any trpg sessions!
 </p>
+
+A fork of dicemaiden.
 
 # Quick Install
 Follow the link to add the bot to your discord server :
